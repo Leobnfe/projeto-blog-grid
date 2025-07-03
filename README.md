@@ -9,7 +9,7 @@ A proposta é apresentar uma estrutura organizada com **área principal de posts
 
 Você pode visualizar o blog online pelo GitHub Pages:
 
-👉 **[Acessar o Layout do Blog](https://seuusuario.github.io/projeto-blog-grid/)**
+👉 **[Acessar o Layout do Blog](https://leobnfe.github.io/projeto-blog-grid/)**
 
 > ⚠️ **Observação:** Este layout é um protótipo estático com conteúdo fictício. As imagens e textos podem ser adaptados conforme a necessidade.
 
